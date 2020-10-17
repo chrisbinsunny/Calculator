@@ -1,3 +1,4 @@
+//veruthe for hactober
 #include<stdio.h>
 void main()
  {
